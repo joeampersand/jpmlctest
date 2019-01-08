@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coding Exercise</string>
+    <string name="albums">Fake Online REST API for Testing and Prototyping\nhttps://jsonplaceholder.typicode.com/albums</string>
+    <string name="no_albums">No albums</string>
+    <string name="refresh">Refresh</string>
+    <string name="refreshing">Content refreshing…</string>
+    <string name="message">message</string>
+</resources>
